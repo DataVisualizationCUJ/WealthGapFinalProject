@@ -20,7 +20,7 @@ and the four school ranking from lowest tuition to highest will be displated in 
 be black, the out-of-state bar will be light gray and wach will have a text box above them that say the actual tution prices 
 in red. The name of the graph will be 'Manahattan Undergra COA Cost of Attendance Per year. 
 
-![Middle Scenario] (IMG_5565.jpg)
+![Middle Scenario] (IMG_5565.JPG)
 
 Middle:
 I’d like my bar graph to include multiple college tuitions based out of Manhattan, 
@@ -43,7 +43,7 @@ chart:
 ☐ Out-of-State #666666
 ☐ Net Price #000000
 
-![Middle Scenario] (IMG_5563.jpg)
+![Middle Scenario] (IMG_5563.JPG)
 Reach
 The reach scenario would be much more involved with multiple layers in a
 line graph depicting the three schools and their tuition and % borrowed in 
@@ -54,4 +54,4 @@ year either via Skype or in person. Below the videos I could also link to their 
 and social platforms. These attributes would make it more interactive and put a 
 human face to the issue, which is what I find most articles and data to be missing.
 
-![Middle Scenario] (IMG_5564.jpg)
+![Middle Scenario] (IMG_5564.JPG)
