@@ -12,13 +12,3 @@ The difference among the neo-middle class immigrants and more established immigr
 
 [TK: Howard Shih (Census Programs Director, AAFNY), 
 Interview setup for Thursday, The information from Howard Shih would pertain to the specifics about demographics in New York City. Particularly, the senior population in New York]
-
-![alt tag] [AsiansDataViz.jpg]
-
-
-http://www.pewsocialtrends.org/2013/04/04/asian-groups-in-the-u-s/
-http://www.pewsocialtrends.org/2012/06/19/chapter-1-portrait-of-asian-americans/#other-asian-americans
-http://www.pewresearch.org/daily-number/asian-americans-lead-all-others-in-household-income/
-http://www.aafny.org/pdf/AAF_nyc2010report.pdf
-http://www.aafny.org/doc/FINAL-NYS-2013-Report.pdf
-
