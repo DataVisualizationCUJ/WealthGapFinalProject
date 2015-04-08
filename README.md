@@ -101,9 +101,14 @@ Email: 	cm2014@columbia.edu
 o   Orin Herskowitz, Vice President of Intellectual Property and Tech Transfer at Columbia University and Executive Director of Columbia Technology Ventures
 Email: 	cm2014@columbia.edu
 	
-
 o   Marina Dadashev, Director of Career Services, Cornell Tech
 Email:	md87@cornell.edu
+
+o   Tom O'Connell, Program Director, Code/Interactive
+Email:	tom@weare.ci
+
+o   Jonathan Gardner, VP of Communications, and Anna Lindow, Digital Marketing Instructor, of General Assembly
+Email:	jag@generalassemb.ly
 
 Data:
 o   The NYC Tech Economy (http://www.nyctecheconomy.com/)
