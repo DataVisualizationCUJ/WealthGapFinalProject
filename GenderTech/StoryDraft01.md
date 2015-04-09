@@ -3,7 +3,6 @@ David OK
 First Draft
 Gender & Racial Diversity in Tech
 
-
 DAVID OK
 
 New York City’s tech industry has seen incredible growth in recent years, with venture capitalists 
