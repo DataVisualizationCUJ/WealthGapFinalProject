@@ -6,8 +6,6 @@ chart will show overall enrollment across all General Assembly classes. The colo
 
 scheme for this chart will follow Quartz’s theme of purple, light blue and dark gray
 
-
-
 Middle: It would be nice to also have data for an additional chart for the trellis that 
 
 show the positions associated with the top 5 courses, and how each gender has filled 
@@ -19,8 +17,6 @@ mouse moves over the bars. The mobile version of the this chart will not be in c
 format. Rather, it will be a list of the courses with a sublist of related jobs and the 
 
 percent breakdown of male and female.
-
-
 
 Reach: Ideally, it would be nice to have a breakdown of how many men and women 
 
