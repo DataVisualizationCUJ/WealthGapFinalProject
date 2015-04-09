@@ -1,7 +1,7 @@
 Close-middle-reach 
 
 
-![This is an image of my close design](https://raw.githubusercontent.com/DataVisualizationCUJ/WealthGapFinalProject/45c2bbb27de6ed1c47e0b5d486867659bc6f837a/GenderTech/Images/Gender01.jpg?token=AKKywSz3Tuv6rhapQhWPrQoWuqS8GsLrks5VLyHEwA%3D%3D)
+![This is an image of my close design](https://raw.githubusercontent.com/DataVisualizationCUJ/WealthGapFinalProject/45c2bbb27de6ed1c47e0b5d486867659bc6f837a/GenderTech/Images/Gender01.jpg)
 
 Description: The visualization would be a trellis of bar charts that shows the number of 
 women and men in the 5 most in-demand classes at General Assembly. The second 
