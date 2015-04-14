@@ -10,7 +10,7 @@ function drawChart() {
 	data.addColumn('string', 'Test');
 	data.addColumn('number', 'Male');
 	data.addColumn('number', 'Female');
-	data.addRows([['One', 30, 70], ['Two', 60, 140], ['Three', 40, 40], ['Four', 80, 10]]);
+	data.addRows([['Apple', 30, 70], ['eBay', 60, 140], ['Facebook', 40, 40], ['Google', 80, 10], ['LinkedIn', 30, 70], ['Twitter', 30, 70],['Yahoo', 30, 70]]);
 
 	var view = new google.visualization.DataView(data);
 
