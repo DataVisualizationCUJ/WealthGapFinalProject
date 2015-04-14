@@ -1,0 +1,40 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+    
+      google.load("visualization", "1.1", {packages:["bar"]});
+      google.setOnLoadCallback(drawChart);
+      function drawChart() {
+      	
+
+        var data = google.visualization.arrayToDataTable([
+          ['Tech Companies in NYC', 'Number of Engineers', 'Number of Women Engineers'],
+          ['Etsy', 1000, 400],
+          ['Foursquare', 1170, 460],
+          ['Rent the Runway', 660, 1120],
+          ['Venmo', 1030, 540],
+          ['Paperless Post', 1030, 540],
+          ['The New York Times', 1030, 540],
+          ['Sailthru', 1030, 540],
+          ['HowAboutWe', 1030, 540],
+          ['Flatiron Health', 1030, 540]
+        ]);
+
+        var options = {
+          chart: {
+            title: 'More women needed in tech',
+            subtitle: 'Source: https://github.com/triketora/women-in-software-eng',
+          }
+        };
+
+        var chart = new google.charts.Bar(document.getElementById('columnchart_material'));
+
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="columnchart_material" style="width: 1300px; height: 500px;"></div>
+  </body>
+</html>
