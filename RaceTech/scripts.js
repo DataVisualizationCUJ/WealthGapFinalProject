@@ -8,9 +8,16 @@ google.setOnLoadCallback(drawChart);
 function drawChart() {
 	var data = new google.visualization.DataTable();
 	data.addColumn('string', 'Test');
-	data.addColumn('number', 'Male');
-	data.addColumn('number', 'Female');
-	data.addRows([['Apple', 30, 70], ['eBay', 60, 140], ['Facebook', 40, 40], ['Google', 80, 10], ['LinkedIn', 30, 70], ['Twitter', 30, 70],['Yahoo', 30, 70]]);
+	data.addColumn('number', 'White');
+	data.addColumn('number', 'Asian');
+	data.addColumn('number', 'Black');
+	data.addColumn('number', 'Hispanic');
+	data.addColumn('number', 'Native Hawaiian');
+	data.addColumn('number', 'American Indian');
+	data.addColumn('number', 'Multi-Racial');
+	data.addColumn('number', 'Other');
+	data.addColumn('number', 'Undeclared');
+	data.addRows([['Apple', 55, 15, 7, 11, 0, 0, 2, 1, 9], ['eBay', 61, 24, 7, 5, 0, 0, 1, 1, 0], ['Facebook', 2526, 1411, 45, 141, 13, 5, 122, 0, 0], ['Google', 16524, 7891, 483, 798, 64, 48, 751, 0, 0], ['LinkedIn', 1859, 1172, 59, 134, 11, 3, 81, 0, 0], ['Twitter', 1760, 970, 49, 68, 13, 3, 47, 0, 0], ['Yahoo', 3308, 2257, 138, 313, 12, 15, 95, 0, 0]]);
 
 	var view = new google.visualization.DataView(data);
 
