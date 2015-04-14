@@ -19,7 +19,7 @@ function drawChart() {
 	data.addColumn('number', 'Undeclared');
 	data.addColumn({type:'string', role:'annotation'}); // annotationText col.
 	
-	data.addRows([['Apple', 55, 15, 7, 11, 0, 0, 2, 1, 9, 'Data Available Only As %'], ['eBay', 61, 24, 7, 5, 0, 0, 1, 1, 0, 'Data Available Only As %'], ['Facebook', 2526, 1411, 45, 141, 13, 5, 122, 0, 0, ''], ['Google', 16524, 7891, 483, 798, 64, 48, 751, 0, 0, ''], ['LinkedIn', 1859, 1172, 59, 134, 11, 3, 81, 0, 0, ''], ['Twitter', 1760, 970, 49, 68, 13, 3, 47, 0, 0, ''], ['Yahoo', 3308, 2257, 138, 313, 12, 15, 95, 0, 0, '']]);
+	data.addRows([['Apple', 55, 15, 7, 11, 0, 0, 2, 1, 9, "Data Available Only As %"], ['eBay', 61, 24, 7, 5, 0, 0, 1, 1, 0, "Data Available Only As %"], ['Facebook', 2526, 1411, 45, 141, 13, 5, 122, 0, 0, ''], ['Google', 16524, 7891, 483, 798, 64, 48, 751, 0, 0, ''], ['LinkedIn', 1859, 1172, 59, 134, 11, 3, 81, 0, 0, ''], ['Twitter', 1760, 970, 49, 68, 13, 3, 47, 0, 0, ''], ['Yahoo', 3308, 2257, 138, 313, 12, 15, 95, 0, 0, '']]);
 
 	var view = new google.visualization.DataView(data);
 
@@ -199,6 +199,9 @@ function drawChart() {
 	var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
 	chart.draw(view, {
 		title : 'White and Asian Populations Make Up Majority of Major Tech Companies',
+		annotations: {
+    		alwaysOutside: true
+		},
 		width : 1000,
 		height : 700,
 		hAxis :{
