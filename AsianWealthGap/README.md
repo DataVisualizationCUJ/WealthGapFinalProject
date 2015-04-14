@@ -1,3 +1,5 @@
+![this is an image which is made from the Quartz Chart builder library] (asian_viz.png)
+
 Close
 
 · Bar graph comparing new york subgroups to national subgroups median household income with reference line for overall median incomes at both level
