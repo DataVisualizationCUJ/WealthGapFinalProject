@@ -196,10 +196,14 @@ function drawChart() {
 
 	var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
 	chart.draw(view, {
-		title: 'White and Asian Populations Make Up Majority of Major Tech Companies',
+		title : 'White and Asian Populations Make Up Majority of Major Tech Companies',
 		width : 1000,
 		height : 700,
+		hAxis :{
+			title: 'Company'
+		},
 		vAxis : {
+			title: 'Employee Percentage',
 			format : '#.##%'
 		},
 		isStacked : true
