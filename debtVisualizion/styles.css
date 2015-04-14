@@ -1,0 +1,16 @@
+label: 'Character', 'Popularity',   'Style',
+role:  domain,      data,   style,
+'Hulk',             50,    'color: green',
+'Captain America',  75,    'color: #0000cf;' +
+                           'stroke-color: #cf001d',
+'Wolverine',        90,    'opacity: 0.5;' +
+                           'stroke-width: 5;' +
+                           'stroke-color: #01a0ff;' +
+                           'fill-color: #fff600',
+'Iron Man',         60,    'color: #db9500;' +
+                           'stroke-width: 10;' +
+                           'stroke-color: #a30300',
+'Spider Man',       100,   'bar {' +
+                           'fill-color: #c8001d;' +
+                           'stroke-width: 3;' +
+                           'stroke-color: #1800c8}'
