@@ -3,143 +3,80 @@ David OK
 First Draft
 Gender & Racial Diversity in Tech
 
-DAVID OK
-
-New York City’s tech industry has seen incredible growth in recent years, with venture capitalists 
-bankrolling billions into the sector. Despite the success, corporations and organizations are still 
-injecting money into tech but with one goal in mind: to close the diversity gap.
-
-As the city with the worst wealth gap in the entire country, New York City’s “Silicon Alley” 
-is creating new opportunities that pay, on average, 49 percent more than the city’s hourly wage, 
-according to a report prepared by HR&A Advisors called “The New York City Tech Ecosystem.”
-
-Firms invested $1.3 billion in 222 high-tech companies in 2013, according to the most current report 
-available by the Office of the State Comptroller. And at 33 percent, job growth in the tech industry 
-has been four times faster than in any other industry in New York.
-
-The HR&A Advisors report states that New York City’s tech “ecosystem” has outpaced the growth of both the 
-city and the U.S. in terms of new jobs. The city’s average hourly wage is $26.50, compared with $39.50 in tech.
-
-However, the distribution of those capitalizing from these new opportunities is not equal. Caucasians 
-and Asian-Americans make up the majority of people working in tech jobs, with black and Hispanic people 
-making up between 1 and 7 percent of people working at several major tech companies.
-
-This disparity is one that people like Tom O’Connell is attempting to fix – from a young age. O’Connell 
-is the program director of C/I, which has three meanings: Code/Interactive, Camp/Interactive and Career/Interactive.
- The organization’s goal is to encourage under-served high school students to learn computing skills and to 
- prepare them for jobs in the tech industry. O’Connell said he thinks that the reason for the diversity gap 
- is because there simply aren’t enough people of color or women available to fill the current available positions.
-
-“There’s a huge education gap in a lot of schools we work in and in low-income schools in the country,” he said. 
-Not only that, but he said he’s observed the frustration children express when confronted with the challenging 
-coding curriculum – stressful enough that the children end up giving up.
-
-To address issue, C/I is set up as an incentive program for high schoolers aged 14 to 18 to climb to eventually 
-intern at a major tech company. Code/Interactive is an after-school program in which students learn HTML, 
-CSS and JavaScript. Those who show promise are invited to participate in the more intensive Camp/Interactive 
-program where they can participate in Hackathons and further develop their products. The highest tier, 
-Career/Interactive, pairs top students with companies where they can intern straight out of high school.
-
-“I always tell [recruiters], ‘You’re not going to go to a college recruiting fair and find diversity today. 
-But if you take someone under your wing from high school, then you might find someone in a couple of years,’” 
-O’Connell said. “Everybody has to do their part to make sure these students go into tech, or it’s not going to happen.”
-
-The HR&A Advisors report states that New York City’s tech “ecosystem” has outpaced the growth of both the city and 
-the U.S. in terms of new jobs. The city’s average hourly wage is $26.50, compared with $39.50 in tech. 
-
-However, the distribution of those capitalizing from these new opportunities is not equal. Caucasians and 
-Asian-Americans make up the majority of people working in tech jobs, with black and Hispanic people making up 
-between 1 and 7 percent of people working at several major tech companies.
-
-This disparity is one that people like Tom O’Connell is attempting to fix – from a young age. O’Connell is 
-the program director of C/I, which has three meanings: Code/Interactive, Camp/Interactive and Career/Interactive. 
-The organization’s goal is to encourage under-served high school students to learn computing skills and to prepare 
-them for jobs in the tech industry.
-
-O’Connell said he thinks that the reason for the diversity gap is because there simply aren’t enough people of 
-color or women available to fill the current available positions.
-
-“There’s a huge education gap in a lot of schools we work in and in low-income schools in the country,” he said. 
-Not only that, but he said he’s observed the frustration children express when confronted with the challenging 
-coding curriculum – stressful enough that the children end up giving up.
-
-To address issue, C/I is set up as an incentive program for high schoolers aged 14 to 18 to climb to 
-eventually intern at a major tech company. Code/Interactive is an after-school program in which students 
-learn HTML, CSS and JavaScript. Those who show promise are invited to participate in the more intensive 
-Camp/Interactive program where they can participate in Hackathons and further develop their products. 
-The highest tier, Career/Interactive, pairs top students with companies where they can intern straight out of high school.
-
-“I always tell [recruiters], ‘You’re not going to go to a college recruiting fair and find diversity today. 
-But if you take someone under your wing from high school, then you might find someone in a couple of years,’ ” 
-O’Connell said. “Everybody has to do their part to make sure these students go into tech, or it’s not going to happen.” 
-
-But sometimes, career paths are paved much later in life. Adults, too, are seeking out programs that could help 
-them to improve or even redirect their careers to tech, and the demand for education is apparent. 
-General Assembly, which began as a coworking space four years ago, has now expanded to 13 educational campuses, 
-with a 14th to open in the near future, said Anna Lindow, digital marketing instructor for General Assembly.
-
-“We’re seeing a lot of desire around data and analytics,” she said. “All of our programming is designed to 
-give people skills they can apply professionally.”
-
-
-General Assembly students have gone on to work for companies like Spotify, The New York Times, JP Morgan and
-TD Ameritrade. In fact, the concept behind the organization’s full-time courses – which are held every day of 
-the week – is intended as “education until employment,” Lindow said.
-
-As General Assembly expands, the organization continues to adapt to industry needs, creating scholarship 
-opportunities to under-served groups – people of color, women, veterans and those of lower income – through 
-its Opportunity Fund. “We’ve granted a bunch of fellowships,” Lindow said. “The Fund is a way to cover the 
-tuition of the program but also to give back to the community. We see it as a cycle.”
-
-Among those who’ve received scholarships are women, who historically have not been highly represented in the tech industry.
-
-“As a woman in tech and as a woman in operations … I think there are lots of great things going on,”
-Lindow said. “One of the best things we can do is to offer people access, mentorship and exposure to people 
-who are in the industry who do identify with those underrepresented groups.”
+Waiting on David's second draft. 
 
 YASMIN NOUH
 
-Being one of a few women in her computer science classes, Sarah Chipps, a web developer, 
-often shied away from asking questions in the classroom. When she met Vanessa Hurst, 
-a fellow female web developer, the two started discussing the challenges of studying computer science in college. 
+Chelsea Komlo, 27, stood at the front of the conference room where about 15 women sat with their laptops open 
+on a Monday evening in the New York City office of Thoughtworks, a web development company, on Madison Avenue 
+and 29th street. The women gathered for a study group on front-end web development hosted by Women Who Code NYC, 
+an organization that wants to increase the number of women working in technology. 
 
-“When we were in classes and we were the only girls, we felt really awkward asking questions, 
-because what if it’s a dumb question,” she said, fearing that “then people are like ‘girls are dumb.’” 
+“How many of you are working in tech full-time?” Komlo asked in a hushed voice. Less than half of the women 
+raised their hands. 
 
-Their discussions led to the idea of Girl Develop It, an organization they founded in 2010 that 
-teaches young women how to code. The first class in which Chipps taught HTML and CSS sold out. 
-From there, it spread to other (TK exact number) cities and now the nonprofit operates internationally. 
+She shared her personal story to encourage the women to continue their journey into technology, a world that 
+is primarily dominated by Caucasian and Asian men. Komlo attended a web development training program. 
+Shortly after graduating, she was hired as a software engineer at Thoughtworks, a company that prides 
+itself on employing female engineers at a higher rate than other tech giants like Facebook or Google. 
 
-Girl Develop It is one of dozens of organizations in New York City specifically aimed at increasing 
-the number of women working in technology. There is Coalition for Queens, Women Who Code and BellaMinds. 
-Girls Who Code, for instance, runs an seven-week summer program for high school sophomores and juniors that 
-immerses them in computer science courses on subjects like robotics, web design and mobile development. 
-Most recently, Mayor Bill de Blasio’s administration created a program called Tech Talent Pipeline, 
-as part of a broader effort to train New Yorkers in technology and connect them companies looking for employees. 
-Karen Titus, who heads the initiative, told New York Daily News that 55% of the program’s participants are women. 
+“The figures are low,” Komlo said. “But I do think there’s an emerging awareness so that’s exciting.” 
 
-Technology is one of the fastest-growing industries in New York City, employing nearly 300,000 people. 
-However, it’s more often the case that men become employed at tech companies than women. 
-Women comprise 40% of the tech workforce in New York, which includes administrative and human resources positions, 
-but they comprise 29 percent of technical roles at companies, according to a report by HR&A Advisors, 
-a New York-based advisory firm. 
+Low is correct. Technology is one of the fastest-growing industries in New York City, employing nearly 300,000 people.
+Women comprise 40% of the tech workforce in New York but only 29 percent of technical roles at companies, according to
+ a report by HR&A Advisors, a New York-based advisory firm. That’s slightly higher than the national average of 
+ 26 percent, according to the National Center for Women and Information Technology. 
+  
+Women technologists cite various reasons for their low numbers. A boys-club culture at technology companies 
+makes men more likely to employ other men than women. A few studies cited in a University of California Hastings 
+report, however, showed that both men and women were twice as likely to hire a man for a job that required math. 
 
-Chipps and Hurst believe that social factors cause women to become less interested in technical subjects like math, 
-science and computing as they get older. In college, there’s less women majoring in computer science. 
-Only 12% of computer science majors who graduated with degrees were women, 
-according to the National Center for Women in Technology. After graduation, many women leave their careers in computer science for various reasons, at a much higher rate than men. TK exact figures of women major in computer science/engineering fields in New York City universities and those that end of up working in computer science/engineering. 
-The lack of women in technical roles affects how many women are comfortable and confident enough in pursuing technology, said Hurst. She majored in computer science at the University of Virginia, and thought that in her career, she “would take on a less technical role because it seemed to be what other women did.” 
+Another reason is that fewer women major in computer science now than before. Only 18% of computer science majors
+ who graduated with degrees were women, according to the National Center for Women in Technology compared to 
+ 37 percent in 1985. 
+
+While Komlo didn’t major in computer science, she and other employees at Thoughtworks acknowledged that having
+a computer science degree is helpful and makes it easier to get a job in technology. But even then, women in 
+science, engineering and tech industries leave their careers at a much higher rate than men. In fact, 
+a report from the Center for Talent Innovation shows that they are 45% more likely than their male colleagues 
+to leave their fields within a year.
+
+The lack of women in technical roles affects how many women are comfortable and confident enough in pursuing 
+technology, said Vanessa Hurst, co-founder of Girl Develop it, a nonprofit that hosts classes on web development
+for women. She majored in computer science at the University of Virginia and considered herself lucky because 
+there were “at least a few women” in several of her classes. Nonetheless, she thought that after graduating, 
+she “would take on a less technical role because it seemed to be what other women did.”
+
+When Hurst met Sarah Chipps, a fellow female web developer, the two started discussing the challenges of
+being the only women in class or on the job. Chipps declined to publicly discuss the challenges she has had working
+in technology. Her discussions with Hurst, however, led to the idea of Girl Develop It, an organization they 
+founded in 2010 that teaches young women how to code. The first class, where Chipps taught HTML and CSS, 
+sold out. From there, it spread to 46 cities and now the nonprofit operates internationally.
+
+Girl Develop It boasts over 7,600 members in its NYC Meetup group and recently started collecting data 
+that tracks participants’ paths into technical careers. Similar organizations like Women Who Code, NYC Ruby 
+and BellaMinds are just three of more than 20 groups listed on Meetup.com that aim to increase the number of 
+women working in technology. Other organizations in the city include Coalition for Queens, Black Girls Code 
+and CodeED NYC, all of whom run computer science classes for young girls, and particularly girls of color.
+
+New York City is catching up with nonprofits’ efforts to increase gender diversity in technology. In May 2014, 
+Mayor Bill de Blasio’s administration launched Tech Talent Pipeline, an initiative that’s part of a broader 
+effort to train New Yorkers in technology and connect them with companies looking for employees. 
+The initiative’s director, Karen Titus, told New York Daily News that 55% of the program’s participants are women.
+
+Major companies are starting to address the lack of diversity in their companies, as well. Google 
+launched a $50 million program called Made with Code in June of 2014 to teach girls how to code, 
+in a joint effort with the Massachusetts Institute of Technology’s MIT Media Lab, Chelsea Clinton 
+and actress Mindy Kaling, among others. 
+
+Thoughtworks considers itself ahead of the curve when it comes to diversity in its workforce. 
+“We really try to stack the deck with historically discriminated groups,” said Jared Hatch, a recruiter with 
+Thoughtworks. “We want more Latinos, Native Americans, women, people who identify as LGBTQ.” 
+He believes diversity builds better products.
+
+Hurst and other women technologists agree. 
 
 “Computing is one of the most powerful tools we have,” Hurst said. “And we’re not going to be able to solve 
-humanity’s most important problems unless we have enough different voices contributing to the solution. 
+humanity’s most important problems unless we have enough different voices contributing to the solution.”
 
-Major companies are starting to address the lack of diversity in their companies. On Aug. 21, AT&T 
-pledged $1 million to help the organization expand its summer program. The announcement was made at the 
-end of this year’s camp. Google, too, launched a $50 million program called Made with Code in June to 
-teach girls how to code, in a joint effort with the Massachusetts Institute of Technology’s MIT Media Lab, 
-Chelsea Clinton and actress Mindy Kaling, among others.
 
-“Coding is a new literacy and it gives people the potential to create, innovate and quite literally 
-change the world,” YouTube CEO Susan Wojcicki said in a statement announcing the program. 
-“We’ve got to show all girls that computer science is an important part of their future, and that 
-it’s a foundation to pursue their passions, no matter what field they want to enter."
