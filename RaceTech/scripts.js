@@ -204,6 +204,10 @@ function drawChart() {
 		},
 		width : 1000,
 		height : 700,
+		textStyle : {
+			fontName : 'Times New Roman'
+		},
+		colors : ['#154866','#9300BF','#51b2e5','#E770FF','#757575'],
 		hAxis :{
 			title: 'Company'
 		},
