@@ -1,100 +1,79 @@
-# FinalProject Draft 1
-*Insert Overview Blurb*
+# FinalProject Draft 2
 
+The Cost of Higher Education
 
-Re-Pitch: I’ve chosen three different Manhattan colleges (Columbia, F.I.T and CUNY). 
-These percentages were based upon students who were enrolled full time (FT) at these 
-colleges and categorized by whether or not they pay in-state tuition or out-of-state tuition. 
-Columbia is the most expensive but doesn’t increase in tuition price for undergraduate 
-students that aren’t New York State residents.  I’ve used this in comparison to F.I.T and 
-CUNY because although it doesn’t charge more for out of state tuition, it’s nearly triple 
-the amount of the other two Manhattan colleges. Though they’re cheaper, out of state 
-residents are paying nearly double what New York State students pay for the same 
-education, how does this effect the wealth gap? This small portion of New York City 
-undergraduate tuition cost is pushing students to borrow more just because they’re not 
-residents in that particular state – leading them to borrow more than they would have had 
-they been a resident in New York. 
+<br />In 2011, the median annual earning of full time, full-year wage and salary workers that were recent graduates with a bachelor degree earned $44,970 - though the unemployment rate remained at a high of 8.8%, according to The Institute for College Access and Success.
 
-Undergraduate Student Debt by Tom Davis
+Are students graduating with a four-year degree in 2015 likely to make a lucrative income that will help them efficiently make monthly loan payments?
 
-There are a couple of ways students pay for their undergraduate education; they have
+There are multiple ways students pay for their undergraduate education. Whether they’re borrowing loans, paying out of pocket or using other means – it’s expensive. First year bachelor students at the Fashion Institute of Technology in NYC pay $24,680 in tuition per year. By graduation, four years and eight semesters later and from the tuition alone – they will owe nearly $100,000. In 2013, nearly 56% of F.I.T’s undergraduate class graduated with debt.  
 
-resources to acquire the money on their own accord, they can borrow through student 
+These are hefty price tags to consider as a teenager fresh out of high school. Students and their families have a responsibility for finding a school that not only fulfills the student’s interests but also fits within the family’s fiscal constraints. 
 
-loans or they are on a need based plan that requires help from the state, either through 
+For students without financial support, there are options for affording their college education. Resources such as the Federal Pell Grant, which is awarded through FAFSA, can be distributed to need-based students and does not have to be paid back. 
 
-grants, loans, scholarships or work-study. 
+During the 2008 – 2011 recession, unemployed adults were enrolling in college credit courses at both associate (two year) and bachelor (four year) programs. People were not acquiring jobs, so to increase the chance of employment they were acquiring new skills and degrees. Fortunately for them, this strategy was successful, resulting in many individuals no longer perusing further education upon employment. Since interest in higher education dropped, the cost of college tuition continues to increase every couple of years. According to a U.S Department of Education survey, 33.8% of students who attended two-year programs in 2011 were projected to be in loan-default rather than the 13.8% of student who graduated from a four-year bachelor program. 
 
-Either route a student takes, they still have to pay something. In America, students begin 
+Student Loan Justice is an organization dedicated to returning standard consumer protections to student loans and focuses primarily on research, media outreach, and grassroots lobbying initiatives.
 
-to make major life decisions once they’re in their junior in high school. These students 
+Founder of the Student Loan Justice organization, Alan Collinge said, “Defaults are in fact a preferred outcome for the lending system, up to and including the federal government.  This perverted, bad faith fiscal incentive has led to a myriad of systemic failings.”
 
-are usually around the age 17-19 when they’re asked to choose colleges, careers and 
+Aside from loans, there are very few options for students looking to afford an undergraduate education such as grants, scholarships and work-study.  
 
-make fiscally responsible decisions. 
+Though the economy has picked up and jobs are being created everyday, the employment rate in New York City is the lowest it’s been since 2008, according to the New York State Department of Labor. But depending on a student’s field of study – there may be post-graduation earning potential.
 
-Choosing a college can be tough. Teenagers have to find a school that not only fits their 
+According to a PayScale College Salary Report for 2013-2014, Petroleum Engineering, Actuarial Mathematics and Nuclear Engineering have the highest earning potential of a salary between $60-$103,000 for a recent grad’s starting median pay. That being said, PayScale also reported degrees that most students pursue degrees in Business Administration, Psychology, Nursing and General Biology. The National Center for Education Statistics data from 2010-2011 also showed a similar popularity of those undergraduate majors.  
 
-interests but also suits their financial capabilities, in return affecting where they go to 
+For those who take future loan payments into account, seeking a degree in a particular field could help their future-selves. Along with finding options to afford college, varying In and Out-of-State tuition can be a deal breaker. 
 
-school and the opportunities/disadvantages that come along with. 
+While it takes detailed strategic planning to look for other outlets that provide student aid, student loans are able to provide instant relief for students working toward a degree. Furthermore, students have to decide on programs with high quality education and increase the chance of future employment, or options that are more fiscally responsible, but perhaps don’t afford the same level of post-collegiate opportunities.
 
-Student Loan Justice is an organization dedicated to returning standard consumer 
+Bridget Emslie, a New Jersey resident, graduated Ramapo College of New Jersey in May 2014. Emslie studied Nursing for four years and became employed at Mount Sinai as a Nurse Practitioner in Pediatric Services two months after graduation. As an In-State resident, Emslie’s tuition costs were cut nearly half from $22K/year to $13K/year. 
 
-protections to student loans and has focuses primarily on research, media outreach, and 
+Emslie, who was also accepted to New York University, chose to attend Ramapo College of New Jersey not only for its excellent nursing program’s reputation but also because of the in-state tuition difference. 
 
-grassroots lobbying initiatives. 
+“I chose Ramapo rather than an Out-of-State school like NYU because I knew the cost would be significantly less. I knew once I graduated that my loans would be my problem since my mom wasn’t able to help me financially both before and after college,” said Emslie.
 
-Founder of the Student Loan Justice organization, Alan Collinge said, “Many people who 
+Emslie also said that she knew it was her responsibility to choose a school that would have a maximum benefit with a minimal amount of money being held against her. She also hopes to pay off her $20,000 debt with in the next ten years once her finances are in order.
 
-are paying student loans aren't able to pay enough to reduce their balances so they are 
+“I didn't want to be paying off loans for the rest of my life for a degree I could get for a much more reasonable expense,” said Emslie.  
 
-seeing their debt increase every year rather than the opposite.”
+According to PayScale, 2014/15 undergraduates at Columbia University, Fashion Institute of Technology and CUNY – Hunter College, have a potential early career salary of anywhere between $43,800 to $59,200.
 
-Do those who can afford get more?
+EARNING POTENTIAL
 
-American education comes with a price tag, but not only are expenses a nightmare but 
+Navigating the financial system as an undergraduate student can be daunting. Some students are able to afford some of the costs, while borrowing for the remained.
 
-what they school has to offer can have a major affect on a students life post college 
+Anne Most, 22, a recent undergrad at Drexel University would have owed close to $150,000 for her bachelors degree but with the help of her parents and a few grants, Most left with a little under $50,000 in student loans.
+  
+“I can't say that I let money have much of an impact on my undergraduate education. I guess my motto was enjoy now, pay later. Paying back my loans will certainly be a grueling process, but going to Drexel gave me opportunities that I couldn't haven gotten anywhere else, so I don't regret it at all. But call me in ten years and I'll probably say otherwise,” said Most.
 
-graduation. Though students are walking out with a bachelor’s degree and more loans 
+The Fashion Institute of Technology undergraduate student tuition amounts to just under $18K but the full undergrad cost doesn’t stop there. If you take into account Health Insurance, Health Services, Laboratory, Estimated Books and Supplies fees – out-of-state undergraduate student could accrue a yearly charge of $20,796 and that’s not including living expenses. 
 
-than they know what to do with – there may be post-graduation earning potential.
+If appropriate, students can chooses to commute to school in order to save on living expenses. Kristi Stoppiello is an out-of-state resident graduating from F.I.T with an associate’s degree that she started four years ago. Associate degrees tend to take no more than two years to acquire but Stoppiello was fortunate enough to take her time earning it. Graduating as a Fine Art major, Stoppiello feels that an associate over a bachelor degree was a good choice for her.
 
-According to a PayScale College Salary Report for 2013-2014, Petroleum Engineering, 
+“Many artistic fields are based solely on portfolio rather than degree,” said Stoppiello.
 
-Actuarial Mathematics and Nuclear Engineering have the highest earning potential of 
+Stoppiello recalls choosing F.I.T not only for the specialized arts program but also because it was the cheapest of other art schools she pondered applying to. 
 
-a salary between $60-$103,000 for a recent grad’s starting median pay.
+“I was fortunate enough to have parents who both worked very hard in order to pay my tuition. My college bills were completely paid in full and out of pocket each semester. It became far less expensive once I was no longer living in the city and taking no more than three classes a week. My parents were spending around $2,000 each semester,” said Stoppiello.
 
-ANALYSIS ON THAT EARNING POTENTIAL
+Schools like CUNY, which is a public college with multiple institutions around New York City forgive out-of-state tuition for students who:
 
-Navigating the financial system as an undergraduate student can be daunting and 
+•	Were enrolled at CUNY for the Fall 2001 semester and qualified for in-state tuition at that time. 
+•	Attended a New York State high school for two or more years, graduated and applied to CUNY within five years of receiving a diploma.
+•	Received an accredited GED in New York State.
 
-intimidating. Students are borrowing money to afford school because they can and feel it 
+Wanting to find a school that would provide her with the best education at the lowest cost, Erica Davies turned down a more preferred private college in order to pay instate tuition at CUNY. 
 
-may be there only option to experience future opportunities. 
+“It was too expensive to attend and I didn't feel that the cost was worth the education. I figured that being closer to home would save the most money. My mom went to CUNY for her Masters and loved the program, so I decided to follow suit for undergrad,” said Davies. 
 
-Anne Most, 22, a recent Drexel University graduate owed close to $150, 000 for four 
+With research and responsible fiscal planning, students are able to find schools that not only suit their professional interests but also save them the burden of borrowing nearly double the amount in loans for a more prestigious, out-of-state college education. 
 
-years but with the help of her parents and a few grants, Most left with a little under 
+President Obama’s Plan of Action
 
-$50,000 in student loans.
+In January 2015, President Obama proposed that he will sign a Presidential Memorandum that will direct the Department of Education and other federal agencies to work across the federal government to do more to help borrowers afford their monthly loan payments. Within the Student Aid Bill of Rights, its student loan borrowers and the outstanding amount still to be paid categorize by each state. 
 
-“I can't say that I let money have much of an impact on my undergraduate 
+According to the bill’s White House Press Release in March, “Americans are increasingly reliant on student loans to help pay for college.” More than 70 percent of those earning a bachelor’s degree graduate with debt, which averages $28,400 at public and non-profit colleges.
 
-education. I guess my motto was enjoy now, pay later. Paying back my loans will 
-
-certainly be a grueling process, but going to Drexel gave me opportunities that I 
-
-couldn't haven gotten anywhere else, so I don't regret it at all. But call me in ten 
-
-years and I'll probably say otherwise,” said Most.
-
-1 STUDENT SOURCE TK: Sarah Galo - sarah.galo@gmail.com - Phone Appt. Wed. 
-
-Afternoon
-
-Though F.I.T’s undergraduate student tuition amounts to just under $18K, the cost 
-
-doesn’t stop there. If you take into account Health Insurance, Health Services, 
+New York accounts for 2,821,000 people borrowing a total of $77,516,686,000 and counting.
