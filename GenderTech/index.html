@@ -1,34 +1,36 @@
 <html>
   <head>
+  	<link href='http://fonts.googleapis.com/css?family=Cutive' rel='stylesheet' type='text/css'>
+  	<link rel="stylesheet" type="text/css" href="styles.css">
     <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript" src="data.js"></script>
     <script type="text/javascript">
+	
     
-      google.load("visualization", "1.1", {packages:["bar"]});
+       google.load('visualization', '1.0', {'packages':['corechart']});
       google.setOnLoadCallback(drawChart);
       function drawChart() {
       	
 
-        var data = google.visualization.arrayToDataTable([
-          ['Tech Companies in NYC', 'Number of Engineers', 'Number of Women Engineers'],
-          ['Etsy', 1000, 400],
-          ['Foursquare', 1170, 460],
-          ['Rent the Runway', 660, 1120],
-          ['Venmo', 1030, 540],
-          ['Paperless Post', 1030, 540],
-          ['The New York Times', 1030, 540],
-          ['Sailthru', 1030, 540],
-          ['HowAboutWe', 1030, 540],
-          ['Flatiron Health', 1030, 540]
-        ]);
+        var data = google.visualization.arrayToDataTable(techData);
 
-        var options = {
-          chart: {
-            title: 'More women needed in tech',
-            subtitle: 'Source: https://github.com/triketora/women-in-software-eng',
-          }
-        };
+       	var options = {
+		title: 'More women needed in tech',
+		subtitle: 'Source: https://github.com/triketora/women-in-software-eng',
+		isStacked: true,
+		fontName: 'Cutive',
+		colors: ['#E770FF','#9300BF' ],
+		
+		hAxis :{
+		title: 'NYC Tech Companies',
+		titleTextStyle: {fontSize: 20}
+		},
+		vAxis : {
+		title: 'Number of Employees'
+		}
+		}
 
-        var chart = new google.charts.Bar(document.getElementById('columnchart_material'));
+        var chart = new google.visualization.ColumnChart(document.getElementById('columnchart_material'));
 
         chart.draw(data, options);
       }
