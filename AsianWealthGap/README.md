@@ -1,8 +1,12 @@
-![this is an image which is made from the Quartz Chart builder library] (asian_viz.png)
+The focus of the story has shifted in this draft. I have focused more on the granularity of the sub groups.
+
+The staggering poverty and income numbers of Bangladeshis had to be addressed. So I compared the Bangladeshis to Indian and Chinese because they are statistically the largest groups in NYC. 
+
+With the change in focus of the story, the Close-Middle-Reach Scenarios have also changed. 
 
 Close
 
-· Bar graph comparing new york subgroups to national subgroups median household income with reference line for overall median incomes at both level
+· Bar graph comparing new york subgroups (Indian, Chinese, Bangladeshi) to national subgroups median household income with reference line for overall median income.
 
 · The line graphic with added line for comparing with the overall family median income
 
@@ -10,15 +14,13 @@ Close
 
 · Responsive/Selective design: Not showing the annotations in smaller sizes
 
-· Pie chart done in the single color palette of purple in different hues.
+· Another column chart comparing the three groups children and elderly poverty rates and showing the comparison with the overall population average.
 
 Middle
 
-· Highlight the particular subgroups as separate line charts: Chinese and Indian in particular.
+· Highlight Bangladeshi history through line chart: Show the history of immigration through the population changes and income level changes.
 
-· Highlight the gap between overall and Asian median family income in the chart.
-
-· For pie chart: Make it click-through to show the borough-wise breakdown or make smaller pies for separate boroughs
+· For second chart: Make it click-through to show the borough-wise breakdown
 
 
 Reach
@@ -29,7 +31,7 @@ Reach
 
 · Make the pie chart animated and break out the separate slices and have embedded annotations with the most important observations for each category
 
-![this is an image for my close scenario] (AsiansDataViz.jpg)
+
 
 Sources
 http://www.pewsocialtrends.org/2013/04/04/asian-groups-in-the-u-s/
