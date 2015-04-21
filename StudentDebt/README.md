@@ -1,5 +1,13 @@
 # FinalProject Draft 2
 
+
+
+// This story began as a conversation about in-state and out-of-state tuition but quickly turned into students who were fortunate enough to have school paid for them. 
+   
+   The focus of the story is sitll changing slightly because as I analyzed more data, numbers weren't matching the stories I was hearing. I reached out to multiple students at CUNY, F.I.T and Columbia because those are the schools I chose to display in my barchart.
+   
+   The second draft of my data visualization coorelated with the elements of Quartz - color scheme and font. 
+   
 The Cost of Higher Education
 
 <br />In 2011, the median annual earning of full time, full-year wage and salary workers that were recent graduates with a bachelor degree earned $44,970 - though the unemployment rate remained at a high of 8.8%, according to The Institute for College Access and Success.
