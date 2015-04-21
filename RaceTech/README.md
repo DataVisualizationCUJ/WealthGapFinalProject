@@ -2,8 +2,12 @@ This file contains the close-middle-reach scenarios for Yasmin Nouh and David Ok
 
 The story is below the close-middle-reach scenarios.
 
-Visualizations
+Visualizations - First and second iterations
 Gender - tech
+
+Second draft of gender visualization:
+![This image is the second draft of Yasmin Nouh's gender chart] (images/SecondGender.jpg)
+The chart is not styled to match Quartz's color scheme and font.
 
 ![This image is for the Close scenario for the Gender-Tech visualization] (images/Gender01.jpg)
 Close: The visualization would be a trellis of bar charts that shows the number of women and men in the 5 most in-demand classes at General Assembly. The second chart will show overall enrollment across all General Assembly classes. The color scheme for this chart will follow Quartz’s theme of purple, light blue and dark gray.
@@ -15,6 +19,10 @@ Middle: It would be nice to also have data for an additional chart for the trell
 Reach: Ideally, it would be nice to have a breakdown of how many men and women are obtaining computer science, engineering, information systems and similar degrees in Manhattan.
 
 Race - tech
+
+Second draft of race visualization:
+![This image is the second draft of David Ok's race chart] (images/SecondRace.jpg)
+The chart is not styled to match Quartz's color scheme and font.
 
 ![This image is for the Close scenario for the Race-Tech visualization] (images/Race01.jpg)
 Close: The visualization will be a demographic breakdown of the tech industry. The chart type will be a stacked bar graph with data from The NYC Tech Economy report. The “close” scenario will be a stacked bar chart of major tech companies that have released diversity reports: Google, Facebook, Twitter, Apple, eBay, Yahoo and LinkedIn. The chart will use the colors that Quartz charts typically use: purple and light blue for the bars, with gray type for the axes. I envision the chart to look the same regardless of browser size/mobile device.
