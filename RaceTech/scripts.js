@@ -205,7 +205,7 @@ function drawChart() {
 		width : 1200,
 		height : 700,
 		fontName : 'Cutive',
-		colors : ['#154866','#C0C0C0','#9300BF','#E770FF','#51b2e5','#E8E8E8','#505050','#ab5787','#4186aa'],
+		colors : ['#154866','#9300BF','#C0C0C0','#51b2e5','#E770FF','#E8E8E8','#505050','#ab5787','#4186aa'],
 		hAxis :{
 			title: 'Company'
 		},
