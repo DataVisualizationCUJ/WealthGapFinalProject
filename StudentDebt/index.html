@@ -1,48 +1,78 @@
-<!DOCTYPE html><title> </title>
-<head>
-	<link href='http://fonts.googleapis.com/css?family=Cutive' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" href="styles.css"/>
-</head>
-<body>
-	
-<div align = center>Undergraduate Manhattan Tuition</center>
-<div align = center><p>In-State, Out-of-State and Amout Borrowed Per Year</p></center>
-	
-    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
-    <script type="text/javascript">
-		google.load("visualization", "1.1", {
-			packages : ["bar"]
-		});
-		google.setOnLoadCallback(drawChart);
-		function drawChart() {
-			var data = google.visualization.arrayToDataTable([
-			['Manhattan Schools', 'IN-STATE', 'OUT-of-STATE', '$ BORROWED'],
-			['COLUMBIA (PRIVATE)', 51008, 51008, 30148,],
-			['F.I.T (SPECIALIZED)', 6170, 17810, 29524],
-			['CUNY (PUBLIC)', 6330, 16800, 19216],
-			<!-- ['2017', 1030, 540, 350],---!>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+  <!--These rows hold my kicker, headline and byline-->
+      <div class="row">
+        <div class="kicker">
+          <div class="col-md-2"></div>
+          <div class="col-md-8">
+            Wealth Gap
+          </div>
+          <div class="col-md-2"></div>
+        </div> 
+      </div>
+      <div class="row">
+        <div class="headline">
+          <div class="col-md-2"></div>
+          <div class="col-md-8">
+            The Cost of Higher Education
+          </div>
+          <div class="col-md-2"></div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="byline">
+          <div class="col-md-2"></div>
+          <div class="col-md-8">
+            By Tom Davis
+          </div>
+          <div class="col-md-2"></div>
+        </div>
+      </div>
 
-			]);
-			var options = {
-				'titlePosition' : 'out',
-				'colors' : ["9300BF", "E770FF", "757575"],
-				'fontName' : 'Cutive',
-				'legend' : {
-					'position' : 'center'
-				},
-				'hAxis' : {
-					title : 'Manhattan Schools By Funding Type',
-					'minValue' : 0
-				},
-				'vAxis' : {
-					'title' : 'Tuition'
-				}
-			};
-			var chart = new google.charts.Bar(document.getElementById('barchart_optional'));
 
-			chart.draw(data, options);
-		}
-    </script>
-    <div id="barchart_optional" style="width: 900px; height: 300px;"></div>
-  </body>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Student Debt</title>
+	</head>
+	<body>
+		<h1></h1>
+      <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+  <div id="chart_div"><div>
+	</body>
 </html>
+<html>
+<script>
+google.load('visualization', '1', {packages: ['corechart', 'bar']});
+google.setOnLoadCallback(drawStacked);
+
+function drawStacked() {
+      var data = google.visualization.arrayToDataTable([
+        ['Year', 'Borrowed Per BA Recipient', 'Per Borrower'],
+        ['2005-2006', 12100, 22300],
+        ['2012-2013', 15100, 25600],
+      ]);
+
+      var options = {
+        title: 'Cumulative Debt of BA Recipients Between 2005 and 2012',
+        titlePosition: 'out',
+        colors: ["9300BF", "757575"],
+        fontName: 'Cutive',
+        chartArea: {width: '60%'},
+        isStacked: true,
+        hAxis: {
+          title: 'Debt Amount',
+          minValue: 0,
+          maxValue: 30000, ///Not Sure how to change the max value so it doesn't exceet 3000///
+        },
+        vAxis: {
+          title: 'Years'
+        }
+      };
+      var chart = new google.visualization.BarChart(document.getElementById('chart_div'));
+      chart.draw(data, options);
+    }
+
+
+</script>
+</body>
