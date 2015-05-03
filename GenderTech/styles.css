@@ -1,3 +1,40 @@
-body {
-	font-family: 'Cutive', sans-serif;	
+.kicker {
+	color: #006AA4;
+	font-family: Helvetica;
+	font-size: 16px;
+	
+}
+
+.headline {
+	font-family: Helvetica;
+	color: #333333;
+	font-weight: bold;
+	font-size: 34px;
+}
+
+.byline {
+	font-family: Helvetica;
+	color: #168dd9;
+	font-size: 12px;
+}
+
+.cutline{
+	color: #a1a1a1;
+	font-size: 15px;
+	font-family: Helvetica;
+}
+
+#story {
+	font-family: Georgia;
+	color: #4c4c4c;
+	font-size: 20px;
+}
+
+#columnchart_material{
+	font-family: 'Cutive';
+}
+
+img {
+	max-width: 100%;
+	height: auto;
 }

@@ -20,7 +20,7 @@ Middle class populations are swelling in Asian countries of China, India, Indone
 
 The difference among the neo-middle class immigrants and more established immigrants could not be seen more starkly than in New York City. Seniors are the poorest Asian age group in New York City. 1 in 4 seniors live in poverty in New York City according to census analysis done by Asian American Federation. While the proportion of poor seniors is stable around 18 percent for the general population, Bangladeshi seniors have not seen any significant drop in their poverty. The situation is even worse for the children with almost 42 percent children living in poverty in our city. 
 
-![Poverty Rates of Children and Seniors] (AsianViz_SecondDraft.png) 
+![Poverty Rates of Children and Seniors] (AsianViz_ChildernElderly.png) 
 
 Despite all the numbers and data staring us in the face Abdin remains hopeful for the future generations. He lists the most famous Bangladeshis: from architect of One World Trade Center to co-founder of Youtube. The number of Bangladeshi kids getting admissions in Ivy League universities slip of his tongue very easily. 
 

@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+
+		<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+		Remove this if you use the .htaccess -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+		<title>HTML</title>
+		<meta name="description" content="">
+		<meta name="author" content="Dee's">
+
+		<meta name="viewport" content="width=device-width; initial-scale=1.0">
+
+		<!-- Replace favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+		<link rel="shortcut icon" href="/favicon.ico">
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+		<link rel="stylesheet" href="test.css" />
+	</head>
+
+	<body>
+		<div>
+			<header>
+			</header>
+			<nav>
+			</nav>
+
+			<div class="scroll">
+				<!-- Backbone Item Well container -->
+				<section id="items">
+					<div id="itemsContainer" class="items-container">
+						<article class="item article Global active-item" id="item392202">
+							<a name="item392202"></a>
+							<header class="item-header content-width">
+								<span class="kicker">What's Cookin'</span>
+								<h1>The struggles for Bangladeshis in New York Is Still On</h1>
+								<div class="item-meta-mobile">
+									<div class="byline item-meta-row">
+										<h5>Written by</h5><a class="author-name">Rutwij Devashrayee</a><a href="http://twitter.com/rutwij" class="twitter-handle" target="_blank">@rutwij</a>
+									</div>
+								</div>
+							</header>
+							<figure class="featured-image size-extra-large ">
+								<picture>
+									<!--[if IE 9]><video style="display: none;"><![endif]-->
+									<source srcset="bangla.jpg?w=1600, bangla.jpg?w=3200 2x" media="(min-width: 769px)">
+										<source srcset="bangla.jpg?w=768, bangla.jpg?w=1536 2x" media="(min-width: 321px)"><!--[if IE 9]></video><![endif]-->
+										<img srcset="bangla.jpg?w=320, bangla.jpg?w=640 2x" alt="Bangladeshis in New York" title="">
+								</picture>
+								<figcaption class="featured-image-caption">
+									<div class="content-width">
+										<i class="icon-camera"></i>Bangladeshis in New York<span class="featured-image-credit">(New York Dreams)</span>
+									</div>
+								</figcaption>
+							</figure>
+							<div class="item-content ">
+								<div class="item-meta">
+									<div class="share-buttons colored item-meta-row">
+										<h5>SHARE</h5><a title="Share on twitter" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fqz.com%2F392202&amp;text=We%E2%80%99re%20live-charting%20Apple%E2%80%99s%20very%20strong%20second-quarter%20earnings%20report&amp;via=qz" target="_blank" class="share-action icon-twitter"></a><a title="Share on facebook" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fqz.com%2F392202" target="_blank" class="share-action icon-facebook"></a><a title="Share on linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fqz.com%2F392202&amp;title=We%E2%80%99re%20live-charting%20Apple%E2%80%99s%20very%20strong%20second-quarter%20earnings%20report&amp;summary=Apple%20reported%C2%A0its%20second-quarter%20financial%20results%20today%2C%20beating%20most%20analysts%E2%80%99%20expectations.%20We%E2%80%99re%20live-charting%C2%A0the%20performance%20here%E2%80%94the%20latest%20posts%20will%20appear%20at%20the%20top%20of%20the%20feed.%20Preview%20The%20big-picture%20story%20is%20that%20Apple%20is%20still%20expected%20to%20grow%C2%A0after%20a%20slower%20period%20during%20late%202013%20and%20early%202014.%20(But%20not%20as%20fast%20as%20its%20monster%20December%202014%20quarter%2C%20%5B%E2%80%A6%5D&amp;source=Quartz" target="_blank" class="share-action icon-linkedin"></a><a title="Share on email" href="mailto:?subject=We%E2%80%99re%20live-charting%20Apple%E2%80%99s%20very%20strong%20second-quarter%20earnings%20report&amp;body=http%3A%2F%2Fqz.com%2F392202%0A%0AApple%20reported%C2%A0its%20second-quarter%20financial%20results%20today%2C%20beating%20most%20analysts%E2%80%99%20expectations.%20We%E2%80%99re%20live-charting%C2%A0the%20performance%20here%E2%80%94the%20latest%20posts%20will%20appear%20at%20the%20top%20of%20the%20feed.%20Preview%20The%20big-picture%20story%20is%20that%20Apple%20is%20still%20expected%20to%20grow%C2%A0after%20a%20slower%20period%20during%20late%202013%20and%20early%202014.%20(But%20not%20as%20fast%20as%20its%20monster%20December%202014%20quarter%2C%20%5B%E2%80%A6%5D%0A%0ASign%20up%20for%20the%20Quartz%20Daily%20Brief%3A%20http%3A%2F%2Fbit.ly%2Fquartzdailybrief." target="_blank" class="share-action icon-email"></a><a title="Share on whatsapp" href="whatsapp://send?text=We%E2%80%99re%20live-charting%20Apple%E2%80%99s%20very%20strong%20second-quarter%20earnings%20report:http%3A%2F%2Fqz.com%2F392202" target="_blank" class="share-action icon-whatsapp"></a>
+									</div>
+									<div class="byline item-meta-row">
+										<h5>Written by</h5><a class="author-name">Rutwij Devashrayee</a><a href="http://twitter.com/rutwij" class="twitter-handle" target="_blank">@rutwij</a>
+									</div>
+									<div class="timestamp item-meta-row" title="2015-04-27 18:44:14">
+										2 hours ago
+									</div>
+								</div>
+								<div class="item-body" data-article-id="392202">
+									<div>
+										<div id="fb-like-module"></div><div id="fb-like-module"></div><div id="fb-like-module"></div><div id="fb-like-module"></div><div id="fb-like-module"></div><div id="fb-like-module"></div>
+										<p data-annotation-count="0" data-thread-id="192022" data-article-id="392202" class="annotatable">
+											<span class="anno-span">Bangladeshis are the fastest growing foreign born population in New York City. With the fast growth come the problems of income inequality and poverty. The astronomical rise of almost 150 percent growth in population of Bangladeshis between last two censuses could be attributed to several sociopolitical reasons in their home country but the chief among them is the rise of economical instability in the country. These immigrants flooding into New York City for greener pastures have found an equally hard time for economic mobility in their adopted homes as well. The poverty rates among elderly and children population of Bangladeshis are the highest according to the Asian American Federation report. 
+												<div class="anno-right" data-count="0">
+													<div class="regular">
+														<div class="count plus"></div>
+													</div>
+												</div></span>
+										</p>
+										<p data-annotation-count="0" data-thread-id="192023" data-article-id="392202" class="annotatable">
+											Despite the large growth, Bangladeshis still do not match up to the large immigrant population from the neighboring countries of India and China. The census bureau uses broad categorization of race and ethnicity in their process. The scholars who study these numbers are often frustrated with the lack of data on the statistically less significant groups. Annamaria Lusardi, Professor of Economics at Dartmouth College says that, “It is hard to study small sample sizes. Asians are a smaller group as compared to White, Black or Hispanic.”
+											<div class="anno-right" data-count="0">
+												<div class="regular">
+													<div class="count plus"></div>
+												</div>
+											</div>
+										</p>
+										<p data-annotation-count="0" data-thread-id="192024" data-article-id="392202" class="annotatable">
+											Despite the small percentage of population Asians are financially the fastest growing group. According to Census Bureau the median household of Asians is $66,000, which is higher than median household income in New York metropolitan area at $65,786 and nationally at $53,046. As an expert on financial literacy Lusardi points out that the income is not the only factor in determining the overall wealth of a group. There are other factors such as demand for skills in labor market, investments and savings. Some of these factors contribute to the stark difference between Chinese and Indian immigrants as compared to Bangladeshis. Lisa Keister, a sociologist at Duke University has been intensively studying Chinese and other Asian groups for past 10 years. She attributes the transnational investments among the Indian and Chinese as one of the major factors that differentiates them from other immigrant groups. “They would own property in their home countries as well as here,” says Keister. 
+											<div class="anno-right" data-count="0">
+												<div class="regular">
+													<div class="count plus"></div>
+												</div>
+											</div>
+										</p>
+										<figure id="image-392400" class="inline-image  alignnone zoomable size-medium">
+											<div class="inline-image-tools">
+												<a href="#" class="share-button" data-image-id="392400">Share</a>
+												<div class="share-icons desaturated">
+													<a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fqz.com%2F392202%2Fwere-live-charting-apples-second-quarter-2015-earnings%2Fi%2F392400%2F&amp;text=We%26%238217%3Bre+live-charting+Apple%26%238217%3Bs+very+strong+second-quarter+earnings+report&amp;via=qz" target="_blank" class="icon-twitter"></a>
+													<a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fqz.com%2F392202%2Fwere-live-charting-apples-second-quarter-2015-earnings%2Fi%2F392400%2F" target="_blank" class="icon-facebook"></a>
+												</div><span class="help-text"><i class="icon-zoom"></i>Tap image to zoom</span>
+											</div><img src="Asian_Viz_Second Draft.png" alt="Median Household Incomes" title="">
+										</figure>
+										<p data-annotation-count="0" data-thread-id="192025" data-article-id="392202" class="annotatable">
+											This is not possible for immigrants from Bangladesh. Misba Abdin is the co-founder and CEO of the Bangladeshi American Community Development and Youth Services. He has been working as a community worker and a philanthropist for past 26 years. He is part of a very close-knit community where he claims to know three out of four Bangladeshis in New York City. As compared to Chinese or Indian, the family sizes of Bangladeshis are twice or more with an average of four to six kids per family. “This puts a lot of financial strain on families…Even though a lot of kids go to college maybe out of ten kids two would end up going to college. The rest have to do odd jobs to make ends meet,” says Abdin. 
+				                            <div class="anno-right" data-count="0">
+												<div class="regular">
+													<div class="count plus"></div>
+												</div>
+											</div>
+										</p>
+										<p data-annotation-count="0" data-thread-id="192026" data-article-id="392202" class="annotatable">
+											Bangladeshis have been coming to New York City in large numbers for only last 15 or so years. So the financial stability and access to services are not as easily attainable to them as compared to other groups who have had their roots here for much longer.  John Wong of the Asian American Business Development Center says, “Certain groups that are more established are better organized to access the resources” referring to the differences among the subgroups. This way, the longer one lives in America, the more prosperous one becomes seems to be true as seen in research by Keister. 
+											<div class="anno-right" data-count="0">
+												<div class="regular">
+													<div class="count plus"></div>
+												</div>
+											</div>
+										</p>
+										<figure id="image-392409" class="inline-image  alignnone zoomable size-medium">
+											<div class="inline-image-tools">
+												<a href="#" class="share-button" data-image-id="392409">Share</a>
+												<div class="share-icons desaturated">
+													<a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fqz.com%2F392202%2Fwere-live-charting-apples-second-quarter-2015-earnings%2Fi%2F392409%2F&amp;text=We%26%238217%3Bre+live-charting+Apple%26%238217%3Bs+very+strong+second-quarter+earnings+report&amp;via=qz" target="_blank" class="icon-twitter"></a>
+													<a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fqz.com%2F392202%2Fwere-live-charting-apples-second-quarter-2015-earnings%2Fi%2F392409%2F" target="_blank" class="icon-facebook"></a>
+												</div><span class="help-text"><i class="icon-zoom"></i>Tap image to zoom</span>
+											</div><img src="Keister.png?w=640" alt="Source: http://www.wealthinequality.org/Immigrants_and_Wealth.html" title="">
+										</figure>
+										
+										<p data-annotation-count="0" data-thread-id="192027" data-article-id="392202" class="annotatable">
+											<span class="anno-span">Lusardi also says that, “Other people have argued that the differences could be due to the cultural effect.” The cultural effects in question are the ‘saving culture’ of Asians as compared to other groups. Among the major ethnic groups the savings are highest among different Asian subgroups. According to Pew Analysis of the data by census bureau the overall wealth of a household, which includes savings, assets and income, is $83,500 for Asians. Hispanic and Black populations are way behind $7,800 and $5,730 respectively. 
+												<div class="anno-right" data-count="0">
+													<div class="regular">
+														<div class="count plus"></div>
+													</div>
+												</div></span>
+										</p>
+										<p data-annotation-count="0" data-thread-id="192028" data-article-id="392202" class="annotatable">
+											<span class="anno-span">Middle class populations are swelling in Asian countries of China, India, Indonesia and others. Wong thinks that this is another reason that could contribute to differences among the population. “They don’t have to go the traditional immigrant route of [working as unskilled] labor. They have earned money while in their native countries.” This is not the case for Bangladeshis because as Abdin says, “Most of [Bangladeshis] who come here are straight out of farm.” They cannot fulfill the demand for high-skilled jobs and end up doing the low-skilled labor. 
+												<div class="anno-right" data-count="0">
+													<div class="regular">
+														<div class="count plus"></div>
+													</div>
+												</div></span>
+										</p>
+										<p data-annotation-count="0" data-thread-id="192029" data-article-id="392202" class="annotatable">
+											<span class="anno-span">The difference among the neo-middle class immigrants and more established immigrants could not be seen more starkly than in New York City. Seniors are the poorest Asian age group in New York City. 1 in 4 seniors live in poverty in New York City according to census analysis done by Asian American Federation. While the proportion of poor seniors is stable around 18 percent for the general population, Bangladeshi seniors have not seen any significant drop in their poverty. The situation is even worse for the children with almost 42 percent children living in poverty in our city.  
+												<div class="anno-right" data-count="0">
+													<div class="regular">
+														<div class="count plus"></div>
+													</div>
+												</div></span>
+										</p>
+										<figure id="image-376047" class="inline-image  alignnone zoomable size-medium">
+											<div class="inline-image-tools">
+												<a href="#" class="share-button" data-image-id="376047">Share</a>
+												<div class="share-icons desaturated">
+													<a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fqz.com%2F392202%2Fwere-live-charting-apples-second-quarter-2015-earnings%2Fi%2F376047%2F&amp;text=We%26%238217%3Bre+live-charting+Apple%26%238217%3Bs+very+strong+second-quarter+earnings+report&amp;via=qz" target="_blank" class="icon-twitter"></a><a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fqz.com%2F392202%2Fwere-live-charting-apples-second-quarter-2015-earnings%2Fi%2F376047%2F" target="_blank" class="icon-facebook"></a>
+												</div><span class="help-text"><i class="icon-zoom"></i>Tap image to zoom</span>
+											</div>
+											<img src="poverty_rates.png?w=640"  alt="Poverty Rates" title="">
+										</figure>
+										<p data-annotation-count="0" data-thread-id="192030" data-article-id="392202" class="annotatable">
+											<span class="anno-span">
+												Despite all the numbers and data staring us in the face Abdin remains hopeful for the future generations. He lists the most famous Bangladeshis: from architect of One World Trade Center to co-founder of Youtube. The number of Bangladeshi kids getting admissions in Ivy League universities slip of his tongue very easily.   
+												<div class="anno-right" data-count="0">
+													<div class="regular">
+														<div class="count plus"></div>
+													</div>
+												</div>
+											</span>
+										</p>
+										<p data-annotation-count="0" data-thread-id="192031" data-article-id="392202" class="annotatable">
+											<span class="anno-span">“Even though [we] might have only one meal a day, we are hardworking people…We’ll do fine.”   
+												<div class="anno-right" data-count="0">
+													<div class="regular">
+														<div class="count plus"></div>
+													</div>
+												</div></span>
+										</p>
+									</div>
+									<div class="item-share-tools article-footer">
+										<div class="short-url">
+											<input type="text" name="shortURL" value="http://qz.com/392202">
+										</div>
+										<div class="share-buttons colored">
+											<a title="Share on twitter" href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fqz.com%2F392202&amp;text=We%E2%80%99re%20live-charting%20Apple%E2%80%99s%20very%20strong%20second-quarter%20earnings%20report&amp;via=qz" target="_blank" class="share-action icon-twitter"></a><a title="Share on facebook" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fqz.com%2F392202" target="_blank" class="share-action icon-facebook"></a><a title="Share on linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fqz.com%2F392202&amp;title=We%E2%80%99re%20live-charting%20Apple%E2%80%99s%20very%20strong%20second-quarter%20earnings%20report&amp;summary=Apple%20reported%C2%A0its%20second-quarter%20financial%20results%20today%2C%20beating%20most%20analysts%E2%80%99%20expectations.%20We%E2%80%99re%20live-charting%C2%A0the%20performance%20here%E2%80%94the%20latest%20posts%20will%20appear%20at%20the%20top%20of%20the%20feed.%20Preview%20The%20big-picture%20story%20is%20that%20Apple%20is%20still%20expected%20to%20grow%C2%A0after%20a%20slower%20period%20during%20late%202013%20and%20early%202014.%20(But%20not%20as%20fast%20as%20its%20monster%20December%202014%20quarter%2C%20%5B%E2%80%A6%5D&amp;source=Quartz" target="_blank" class="share-action icon-linkedin"></a><a title="Share on email" href="mailto:?subject=We%E2%80%99re%20live-charting%20Apple%E2%80%99s%20very%20strong%20second-quarter%20earnings%20report&amp;body=http%3A%2F%2Fqz.com%2F392202%0A%0AApple%20reported%C2%A0its%20second-quarter%20financial%20results%20today%2C%20beating%20most%20analysts%E2%80%99%20expectations.%20We%E2%80%99re%20live-charting%C2%A0the%20performance%20here%E2%80%94the%20latest%20posts%20will%20appear%20at%20the%20top%20of%20the%20feed.%20Preview%20The%20big-picture%20story%20is%20that%20Apple%20is%20still%20expected%20to%20grow%C2%A0after%20a%20slower%20period%20during%20late%202013%20and%20early%202014.%20(But%20not%20as%20fast%20as%20its%20monster%20December%202014%20quarter%2C%20%5B%E2%80%A6%5D%0A%0ASign%20up%20for%20the%20Quartz%20Daily%20Brief%3A%20http%3A%2F%2Fbit.ly%2Fquartzdailybrief." target="_blank" class="share-action icon-email"></a><a title="Share on whatsapp" href="whatsapp://send?text=We%E2%80%99re%20live-charting%20Apple%E2%80%99s%20very%20strong%20second-quarter%20earnings%20report:http%3A%2F%2Fqz.com%2F392202" target="_blank" class="share-action icon-whatsapp"></a>
+										</div><div id="related-headlines-392202" class="empty"></div>
+									</div>
+								</div>
+							</div>
+					</div>
+				</section><!-- #items -->
+			</div>
+
+			<footer>
+				<p>
+					&copy; Copyright  by Dee's
+				</p>
+			</footer>
+		</div>
+	</body>
+</html>
