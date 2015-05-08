@@ -12,11 +12,7 @@ function drawChart() {
 	data.addColumn('number', 'Asian');
 	data.addColumn('number', 'Black');
 	data.addColumn('number', 'Hispanic');
-	data.addColumn('number', 'Native Hawaiian');
-	data.addColumn('number', 'American Indian');
-	data.addColumn('number', 'Multi-Racial');
 	data.addColumn('number', 'Other');
-	data.addColumn('number', 'Undeclared');
 	//data.addColumn({type:'string', role:'annotation'}); // annotationText col.
 	
 	data.addRows([
@@ -38,13 +34,9 @@ function drawChart() {
 			var Asian = dt.getValue(row, 2);
 			var Black = dt.getValue(row, 3);
 			var Hispanic = dt.getValue(row, 4);
-			var NativeHawaiian = dt.getValue(row, 5);
-			var AmericanIndian = dt.getValue(row, 6);
-			var MultiRacial = dt.getValue(row, 7);
-			var Other = dt.getValue(row, 8);
-			var Undeclared = dt.getValue(row, 9);
+			var Other = dt.getValue(row, 5);
 			return {
-				v : Black / (White + Asian + Black + Hispanic + NativeHawaiian + AmericanIndian + MultiRacial + Other + Undeclared),
+				v : Black / (White + Asian + Black + Hispanic + Other),
 				f : Black.toString()
 			};
 		}
@@ -56,13 +48,9 @@ function drawChart() {
 			var Asian = dt.getValue(row, 2);
 			var Black = dt.getValue(row, 3);
 			var Hispanic = dt.getValue(row, 4);
-			var NativeHawaiian = dt.getValue(row, 5);
-			var AmericanIndian = dt.getValue(row, 6);
-			var MultiRacial = dt.getValue(row, 7);
-			var Other = dt.getValue(row, 8);
-			var Undeclared = dt.getValue(row, 9);
+			var Other = dt.getValue(row, 5);
 			return {
-				v : Hispanic / (White + Asian + Black + Hispanic + NativeHawaiian + AmericanIndian + MultiRacial + Other + Undeclared),
+				v : Hispanic / (White + Asian + Black + Hispanic + Other),
 				f : Hispanic.toString()
 			};
 		}
@@ -74,13 +62,9 @@ function drawChart() {
 			var Asian = dt.getValue(row, 2);
 			var Black = dt.getValue(row, 3);
 			var Hispanic = dt.getValue(row, 4);
-			var NativeHawaiian = dt.getValue(row, 5);
-			var AmericanIndian = dt.getValue(row, 6);
-			var MultiRacial = dt.getValue(row, 7);
-			var Other = dt.getValue(row, 8);
-			var Undeclared = dt.getValue(row, 9);
+			var Other = dt.getValue(row, 5);
 			return {
-				v : White / (White + Asian + Black + Hispanic + NativeHawaiian + AmericanIndian + MultiRacial + Other + Undeclared),
+				v : White / (White + Asian + Black + Hispanic + Other),
 				f : White.toString()
 			};
 		}
@@ -92,68 +76,10 @@ function drawChart() {
 			var Asian = dt.getValue(row, 2);
 			var Black = dt.getValue(row, 3);
 			var Hispanic = dt.getValue(row, 4);
-			var NativeHawaiian = dt.getValue(row, 5);
-			var AmericanIndian = dt.getValue(row, 6);
-			var MultiRacial = dt.getValue(row, 7);
-			var Other = dt.getValue(row, 8);
-			var Undeclared = dt.getValue(row, 9);
+			var Other = dt.getValue(row, 5);
 			return {
-				v : Asian / (White + Asian + Black + Hispanic + NativeHawaiian + AmericanIndian + MultiRacial + Other + Undeclared),
+				v : Asian / (White + Asian + Black + Hispanic + Other),
 				f : Asian.toString()
-			};
-		}
-	}, {
-		label : 'NativeHawaiian',
-		type : 'number',
-		calc : function(dt, row) {
-			var White = dt.getValue(row, 1);
-			var Asian = dt.getValue(row, 2);
-			var Black = dt.getValue(row, 3);
-			var Hispanic = dt.getValue(row, 4);
-			var NativeHawaiian = dt.getValue(row, 5);
-			var AmericanIndian = dt.getValue(row, 6);
-			var MultiRacial = dt.getValue(row, 7);
-			var Other = dt.getValue(row, 8);
-			var Undeclared = dt.getValue(row, 9);
-			return {
-				v : NativeHawaiian / (White + Asian + Black + Hispanic + NativeHawaiian + AmericanIndian + MultiRacial + Other + Undeclared),
-				f : NativeHawaiian.toString()
-			};
-		}
-	}, {
-		label : 'AmericanIndian',
-		type : 'number',
-		calc : function(dt, row) {
-			var White = dt.getValue(row, 1);
-			var Asian = dt.getValue(row, 2);
-			var Black = dt.getValue(row, 3);
-			var Hispanic = dt.getValue(row, 4);
-			var NativeHawaiian = dt.getValue(row, 5);
-			var AmericanIndian = dt.getValue(row, 6);
-			var MultiRacial = dt.getValue(row, 7);
-			var Other = dt.getValue(row, 8);
-			var Undeclared = dt.getValue(row, 9);
-			return {
-				v : AmericanIndian / (White + Asian + Black + Hispanic + NativeHawaiian + AmericanIndian + MultiRacial + Other + Undeclared),
-				f : AmericanIndian.toString()
-			};
-		}
-	}, {
-		label : 'MultiRacial',
-		type : 'number',
-		calc : function(dt, row) {
-			var White = dt.getValue(row, 1);
-			var Asian = dt.getValue(row, 2);
-			var Black = dt.getValue(row, 3);
-			var Hispanic = dt.getValue(row, 4);
-			var NativeHawaiian = dt.getValue(row, 5);
-			var AmericanIndian = dt.getValue(row, 6);
-			var MultiRacial = dt.getValue(row, 7);
-			var Other = dt.getValue(row, 8);
-			var Undeclared = dt.getValue(row, 9);
-			return {
-				v : MultiRacial / (White + Asian + Black + Hispanic + NativeHawaiian + AmericanIndian + MultiRacial + Other + Undeclared),
-				f : MultiRacial.toString()
 			};
 		}
 	}, {
@@ -164,34 +90,13 @@ function drawChart() {
 			var Asian = dt.getValue(row, 2);
 			var Black = dt.getValue(row, 3);
 			var Hispanic = dt.getValue(row, 4);
-			var NativeHawaiian = dt.getValue(row, 5);
-			var AmericanIndian = dt.getValue(row, 6);
-			var MultiRacial = dt.getValue(row, 7);
-			var Other = dt.getValue(row, 8);
-			var Undeclared = dt.getValue(row, 9);
+			var Other = dt.getValue(row, 5);
 			return {
-				v : Other / (White + Asian + Black + Hispanic + NativeHawaiian + AmericanIndian + MultiRacial + Other + Undeclared),
+				v : Other / (White + Asian + Black + Hispanic + Other),
 				f : Other.toString()
 			};
 		}
-	}, {
-		label : 'Undeclared',
-		type : 'number',
-		calc : function(dt, row) {
-			var White = dt.getValue(row, 1);
-			var Asian = dt.getValue(row, 2);
-			var Black = dt.getValue(row, 3);
-			var Hispanic = dt.getValue(row, 4);
-			var NativeHawaiian = dt.getValue(row, 5);
-			var AmericanIndian = dt.getValue(row, 6);
-			var MultiRacial = dt.getValue(row, 7);
-			var Other = dt.getValue(row, 8);
-			var Undeclared = dt.getValue(row, 9);
-			return {
-				v : Undeclared / (White + Asian + Black + Hispanic + NativeHawaiian + AmericanIndian + MultiRacial + Other + Undeclared),
-				f : Undeclared.toString()
-			};
-		}
+	}]);
 			
 //		label : 'Female',
 //		type : 'number',
@@ -201,7 +106,6 @@ function drawChart() {
 //			return {
 //				v : females / (males + females),
 //				f : females.toString()
-	}]);
 
 	var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
 	chart.draw(view, {
@@ -212,7 +116,7 @@ function drawChart() {
 		width : 900,
 		height : 500,
 		fontName : 'Cutive',
-		colors : ['#154866','#9300BF','#C0C0C0','#51b2e5','#E770FF','#E8E8E8','#505050','#ab5787','#4186aa'],
+		colors : ['#154866','#9300BF','#C0C0C0','#51b2e5','#E770FF'],
 		hAxis :{
 			title: 'Company'
 		},
@@ -223,3 +127,4 @@ function drawChart() {
 		isStacked : true
 	});
 }
+//colors : ['#154866','#9300BF','#C0C0C0','#51b2e5','#E770FF','#E8E8E8','#505050','#ab5787','#4186aa'],
