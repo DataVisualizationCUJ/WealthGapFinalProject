@@ -118,7 +118,9 @@ function drawChart() {
 		fontName : 'Cutive',
 		colors : ['#154866','#9300BF','#C0C0C0','#51b2e5','#E770FF'],
 		hAxis :{
-			title: 'Company'
+			title: 'Company',
+			slantedText: true,
+			slantedTextAngle: 40
 		},
 		vAxis : {
 			title: 'Employee Percentage',
