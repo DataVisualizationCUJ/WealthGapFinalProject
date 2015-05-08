@@ -19,7 +19,14 @@ function drawChart() {
 	data.addColumn('number', 'Undeclared');
 	//data.addColumn({type:'string', role:'annotation'}); // annotationText col.
 	
-	data.addRows([['Apple*', 53900, 14700, 6860, 10780, 0, 0, 1960, 980, 8820], ['eBay*', 21106, 8304, 2422, 1730, 0, 0, 346, 346, 0], ['Facebook', 2526, 1411, 45, 141, 13, 5, 122, 0, 0/*, ''*/], ['Google', 16524, 7891, 483, 798, 64, 48, 751, 0, 0/*, ''*/], ['LinkedIn', 1859, 1172, 59, 134, 11, 3, 81, 0, 0/*, ''*/], ['Twitter', 1760, 970, 49, 68, 13, 3, 47, 0, 0/*, ''*/], ['Yahoo', 3308, 2257, 138, 313, 12, 15, 95, 0, 0/*, ''*/]]);
+	data.addRows([
+	['Apple*', 53900, 14700, 6860, 10780, 11760], 
+	['eBay*', 21106, 8304, 2422, 1730, 692], 
+	['Facebook', 2526, 1411, 45, 141, 140], 
+	['Google', 16524, 7891, 483, 798, 863], 
+	['LinkedIn', 1859, 1172, 59, 134, 95], 
+	['Twitter', 1760, 970, 49, 68, 63], 
+	['Yahoo', 3308, 2257, 138, 313, 122]]);
 
 	var view = new google.visualization.DataView(data);
 
