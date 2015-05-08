@@ -110,7 +110,7 @@ function drawChart() {
 
 	var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
 	chart.draw(view, {
-		title : 'White and Asian Populations Make Up Majority of Major Tech Companies',
+		title : 'Black and Hispanic Populations Make Up Small Minority of Major Tech Companies',
 		annotations: {
     		alwaysOutside: true
 		},
