@@ -53,7 +53,7 @@ formatter.format(techData,3);
         chartArea:{left:80,top:80, width:"95%",height:"50%"},
     
 		hAxis :{
-		title: 'Gender Breakdown in Tech Giants vs. NYC Companies',
+		title: 'Gender Breakdown in NYC Companies vs. Tech Giants',
 		titleTextStyle: {fontSize: 12}, 
 		slantedText: true,
 		slantedTextAngle: 40
