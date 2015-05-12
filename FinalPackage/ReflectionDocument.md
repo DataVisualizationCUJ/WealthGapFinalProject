@@ -1,0 +1,26 @@
+Reflection Document
+Team Wealth Gap
+Ruwtij Devashrayee
+Tom Davis
+Yasmin Nouh
+David Ok
+
+We debated between Ebola, veterans affairs and the wealth gap, and for practical purposes we chose the wealth gap because data are more readily available. Within the wealth gap we initially chose four themes of fiscal inequality: student debt, the income inequality broken down by race, Asians closing in on Caucasians in wealth, and the emerging tech industry. For our target publication we chose Quartz because our topic is business focused, and we felt that our stories could be well received by Quartz's audience.
+
+We realized that the topic of income inequality by race was too broad, therefore, that story was scrapped and we added gender inequality to the tech story to make it one long piece. The other half of that story was narrowed down to focus on racial disparities. By the second draft, we decided to separate the two as standalone stories.
+
+All of us encountered difficulties in the reporting process. Tom first spoke with a student loan justice organization, which talked about loan defaults. That steered him into who’s taking out loans and why. The difficult part was finding students who were willing to talk about their finances. Many said “I’d rather not be quoted” or “Leave out my information if you can.” However he got background information.
+
+Yasmin reached out to nonprofits and meetup groups that host regular classes that teach women how to code or whose mission it is to support women in tech. Through those groups, she connected with two people who founded Girl Develop It. They both work in tech. She then scoured online for data on the number of women who are working at different tech companies based in New York City and found Tracy Chou’s Github account. She attended a meetup group hosted by Women Who Code NYC at ThoughtWorks and spoke with ThoughtWorks employees and the organizers of the meetup group. Her challenges were getting women in tech to talk about their present difficulties they’re currently facing. They would talk about difficulties they faced in the past or difficulties other women face instead of talking about their own personal experiences -- frustrating but understandable because of possible repercussions they might face from their employers. Gathering data was a challenge because a lot of the companies are private. Another challenge was vetting the data.
+
+David reached out to the HR departments of major tech companies, as well as meetup groups and organizations that teach people to code. Through Twitter, he connected with a program director from C/I, which teaches coding to high school students in underserved schools. “Underserved” in this case means students at schools where resources are scarce or unavailable to have a computer science curriculum. David also spoke to an instructor at General Assembly, a computer programming school, along with the vice president for communications. The challenge here was that the VP sat in on the call, and most of what the instructor said was PR fluff. Neither of them responded when David asked to be connected to the organization’s fellows or for financial information and classroom statistics. Instead, David reached out to the fellows through Facebook and LinkedIn. One person responded.
+
+Rutwij started reporting by talking to experts, which he thinks in hindsight was probably not the right strategy. He then narrowed it down to individual ethnocentric groups – activists and community groups. He spoke to a Bangladeshi man who has been running an organization for the last 26 years, helping other Bangladeshis with pretty much everything – immigration, citizenship and other community things immigrants need. In terms of data, Rutwij started with information from the Pew Research Center, which had done an analysis on Census information. He then found out through one of his sources that the Asian American Federation does an analysis as well but specific to the Asian population. They have an entire report on NYC. That was basically his main base for data.
+
+Tom found the visualization process to be very difficult. He described it as having a lot of information in a short period of time for somebody who has never touched data before. It was definitely a learning process for him and if there had been more time learning the mechanics of visualizations, he thinks he could have incorporated a more interactive graph. 
+
+For Yasmin, finding the data was difficult because private companies are not obligated to release information about their employees. When she did find data, she struggled with who to include because it was supposed to be region specific. She found a crowd-sourced dataset in which people self-identified their jobs and gender, and chose companies that were headquartered in New York City.
+
+David found the Equal Employment Opportunity reports for major tech companies to identify any racial trends that exist. It turned out that regardless of the size of the company, Caucasian and Asian American populations combined made up between 70 percent and 90 percent at each of the companies.
+
+For Rutwij, technologically speaking he didn’t struggle much but one thing he wishes that we could have done better as a group is having a consistent design set up early on for everyone. Eventually, we got there.
