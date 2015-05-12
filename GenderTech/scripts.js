@@ -43,7 +43,7 @@ formatter.format(techData,3);
        	var options = {
        	width: '600',
        	height: '600',
-		title: 'From small companies to large, gender diversity is a problem',
+		title: 'From NYC companies to tech giants, gender diversity is a problem',
 		// subtitle: 'Source: https://github.com/triketora/women-in-software-eng',
 		isStacked: 'true', 
 		fontName: 'Cutive',
@@ -53,7 +53,7 @@ formatter.format(techData,3);
         chartArea:{left:80,top:80, width:"95%",height:"50%"},
     
 		hAxis :{
-		title: 'Gender Breakdown in Tech Giants vs. NYC Companies',
+		title: 'Gender Breakdown in NYC Companies vs. Tech Giants',
 		titleTextStyle: {fontSize: 12}, 
 		slantedText: true,
 		slantedTextAngle: 40

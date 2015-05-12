@@ -4589,8 +4589,8 @@ article.video .item-body>div>p:first-child iframe[src*="blip.tv"], article.video
 	margin-bottom:15px;
 	z-index:2}
 .inline-image img {
-	width:100%;
-	height:auto}
+	/*width:100%;
+	height:auto*/}
 .inline-image.size-large {
 	max-width:940px;
 	margin-left:-300px}
