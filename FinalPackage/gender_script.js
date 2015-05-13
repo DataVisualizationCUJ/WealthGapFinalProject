@@ -41,7 +41,7 @@ formatter.format(techData,3);
 
 
        	var options = {
-       	width: '600',
+       	width: '800',
        	height: '600',
 		title: 'From small companies to large, gender diversity is a problem',
 		// subtitle: 'Source: https://github.com/triketora/women-in-software-eng',

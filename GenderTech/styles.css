@@ -34,6 +34,11 @@
 	font-family: 'Cutive';
 }
 
+#legend{
+	margin-top: 40px;
+	
+}
+
 img {
 	max-width: 100%;
 	height: auto;
